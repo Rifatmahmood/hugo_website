@@ -1,2 +1,1 @@
-# hugo_website
-Is it really updating or not? 
+I am having problem installing hugo
